@@ -5,7 +5,6 @@ from datetime import datetime, timezone
 # --- Lista de URLs de Reddit en formato .json ---
 urls = [
     "https://www.reddit.com/r/crashbandicoot/comments/j383r0/crash_bandicoot_4_its_about_time_review_thread/.json",
-    "https://www.reddit.com/r/Games/comments/1fvt8b9/silent_hill_2_review_thread/#:~:text=Faithful%20and%20very%20different%2C%20this,great%20hope%20for%20the%20future.json"
     "https://www.reddit.com/r/Games/comments/11tjv4i/resident_evil_4_2023_remake_review_thread/.json",
     "https://www.reddit.com/r/patientgamers/comments/rjf9mz/alan_wake_is_a_masterpiece/.json",
     "https://www.reddit.com/r/Games/comments/1lq0ld/outlast_review_thread/.json",
